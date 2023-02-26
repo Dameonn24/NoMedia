@@ -1,0 +1,33 @@
+/* home page */
+body {
+   background: #04030a; 
+}
+.bg-custom {
+    background: #04030a !important; 
+}
+.main-color {
+    color: #f58b69 !important;
+}
+.main-title {
+    font-size: 100px;
+    color: #f58b69;
+    line-height: 0.85;
+}
+.custom-title {
+    background: #ffffff;
+    color: #000000;
+    padding: 10px;
+    text-align: center;
+    width: 100%;
+}
+.card-custom {
+    height: 100%;
+}
+.card-custom img  {
+    height: 100%;
+}
+
+.custom-img-size {
+    width: 20px;
+}
+/* about us page */
